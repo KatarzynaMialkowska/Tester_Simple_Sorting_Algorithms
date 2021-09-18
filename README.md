@@ -5,7 +5,7 @@ Author: Katarzyna Miałkowska
 ## Contents ##
 
 1) generator.cxx
-- Generates random output, assuming in the argument: <data amount> <maximum range>
+- Generates random output, assuming in the argument: [data amount] [maximum range]
 
 2) bubble.cxx
 - Bubble sort implementation.
